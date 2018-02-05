@@ -8,6 +8,8 @@
 
 (3)169. Majority Element.cpp                 分治求众数，T(n)=2T(n/2)+O(n)
 
+(4)241. Different Ways to Add Parentheses    分治表达式求值
+
 ### 动规  
 (1)53. Maximum Subarray.cpp                  最大连续子序列和
 
