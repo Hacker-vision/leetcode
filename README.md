@@ -10,6 +10,8 @@
 
 (4)241. Different Ways to Add Parentheses    分治表达式求值
 
+(5)282. Expression Add Operators             dfs进行+-*非括号的二目运算
+
 ### 动规  
 (1)53. Maximum Subarray.cpp                  最大连续子序列和
 
