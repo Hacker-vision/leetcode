@@ -10,9 +10,12 @@
 
 169. Majority Element.cpp                 分治求众数，T(n)=2T(n/2)+O(n)
 
+218. The Skyline Problem                  建筑物覆盖边沿，经典,multiset实现堆元素的删除
+
 241. Different Ways to Add Parentheses    分治表达式求值
 
 282. Expression Add Operators             dfs进行+-*非括号的二目运算
+
 
 ### 动规  
 53. Maximum Subarray.cpp                  最大连续子序列和
