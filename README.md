@@ -1,6 +1,8 @@
 # leetcode
 牛客网在线编程每日一题 [https://www.nowcoder.com/ta/leetcode](https://www.nowcoder.com/ta/leetcode)
 
+[http://blog.csdn.net/u012717411](http://blog.csdn.net/u012717411)
+
 ### 分治
 restore-ip-addresses.cpp                  dfs|注意前导零
 
