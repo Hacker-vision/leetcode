@@ -6,7 +6,7 @@
 
 (2)sqrtx.cpp                                 二分查找[0,x]中平方大于x的第一个数(upperbound)，再减一
 
-23. Merge k Sorted Lists                  2路->k路链表归并
+023. Merge k Sorted Lists                  2路->k路链表归并
 
 169. Majority Element.cpp                 分治求众数，T(n)=2T(n/2)+O(n)
 
