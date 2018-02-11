@@ -4,9 +4,8 @@
 [http://blog.csdn.net/u012717411](http://blog.csdn.net/u012717411)
 
 ### 分治
-restore-ip-addresses.cpp                  dfs|注意前导零
 
-sqrtx.cpp                                 二分查找[0,x]中平方大于x的第一个数(upperbound)，再减一
+###### 000. sqrtx.cpp                                 二分查找[0,x]中平方大于x的第一个数(upperbound)，再减一
 
 ###### 023. Merge k Sorted Lists                  2路->k路链表归并
 
@@ -21,7 +20,7 @@ sqrtx.cpp                                 二分查找[0,x]中平方大于x的�
 ###### 327. Count of Range Sum                   分治好题|前缀和 + 重要逆序对的推广O(nlogn)
 
 ### 动规  
-###### 53. Maximum Subarray.cpp                  最大连续子序列和
+###### 053. Maximum Subarray.cpp                  最大连续子序列和
 
 ###### 514. Freedom Trail                        环形dp
 
@@ -29,3 +28,7 @@ sqrtx.cpp                                 二分查找[0,x]中平方大于x的�
 ###### 215. Kth Largest Element in an Array      优先队列|第k小（大）数
 
 ###### 240. Search a 2D Matrix II                二维单调数组查找元素O(m+n)|利用局部单调性
+
+### 搜索
+###### 000. restore-ip-addresses.cpp                  dfs|注意前导零
+
